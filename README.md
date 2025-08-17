@@ -8,7 +8,7 @@
  <img src="/assets/Sequence 01_4.gif"></img>
 </div>
 
-<img src="/assets/img.svg" width="45%"> <img src="/assets/img.svg" width="45%">
+<img src="/assets/card.svg" width="45%"> <img src="/assets/card.svg" width="45%">
 
 
 
